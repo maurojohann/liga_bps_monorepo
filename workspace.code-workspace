@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "liga_bps"
+		},
+		{
+			"path": "micro_app_login"
+		},
+		{
+			"path": "micro_core"
+		},
+		{
+			"path": "shared"
+		}
+	],
+	"settings": {}
+}
